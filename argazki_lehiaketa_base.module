@@ -1,0 +1,3 @@
+<?php
+
+include_once('argazki_lehiaketa_base.features.inc');
